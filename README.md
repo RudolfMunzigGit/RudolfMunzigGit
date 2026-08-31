@@ -1,12 +1,12 @@
 <div align="center">
 
-# MUNZIGS
+# Munzig´s
 
 ### Lottery data & tools
 
 **Independent lottery data & utility platform**
 
-[**MUNZIGS.COM**](https://munzigs.com)
+[**Munzig´s.com**](https://munzigs.com)
 
 <br>
 
@@ -17,9 +17,9 @@
 
 ---
 
-## About Munzigs
+## About Munzig´s
 
-**Munzigs** is an independent lottery-data and utility platform focused on making lottery information easier to explore, verify and understand.
+**Munzig´s** is an independent lottery-data and utility platform focused on making lottery information easier to explore, verify and understand.
 
 The platform combines reliable source data, historically correct game rules and practical tools in a clear, accessible interface.
 
@@ -29,7 +29,7 @@ Just useful lottery data and tools.
 
 ---
 
-## What Munzigs provides
+## What Munzig´s provides
 
 ### Latest Results
 Current lottery results with source provenance and data-freshness information.
@@ -65,7 +65,7 @@ Upcoming draw date, local draw time and countdown where applicable.
 
 ## Built around reliable data
 
-Munzigs is designed around several core principles:
+Munzig´s is designed around several core principles:
 
 **Verified data** · **Traceable sources** · **Historical accuracy** · **Native localization**
 
@@ -77,7 +77,7 @@ Lottery statistics and generated combinations are presented as informational too
 
 ## Independent by design
 
-Munzigs is not affiliated with, authorized by or endorsed by lottery operators.
+Munzig´s is not affiliated with, authorized by or endorsed by lottery operators.
 
 The platform does not sell lottery tickets, accept wagers or process gambling payments.
 
@@ -89,6 +89,6 @@ Official operator sources are used where appropriate for verification and data p
 
 ### Data first. Clarity always.
 
-**[Visit MUNZIGS.COM](https://munzigs.com)**
+**[Visit Munzig´s.com](https://munzigs.com)**
 
 </div>
