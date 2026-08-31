@@ -2,7 +2,7 @@
 
 # MUNZIGS
 
-### Lottery data, tools & insights
+### Lottery data & tools
 
 **Independent lottery data & utility platform**
 
