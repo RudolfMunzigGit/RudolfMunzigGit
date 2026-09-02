@@ -4,14 +4,13 @@
 
 ### Lottery data & tools
 
-**Independent lottery data & utility platform**
+**Verified results, historical data and practical lottery utilities**
 
 [**Munzig´s.com**](https://munzigs.com)
 
 <br>
 
-**EUROJACKPOT** · **SPORTKA** · **LOTTO 6AUS49** · **LOTERÍA DE NAVIDAD**  
-**POWERBALL** · **MEGA-SENA** · **UK LOTTO**
+**Europe · North America · South America · expanding globally**
 
 </div>
 
@@ -19,29 +18,29 @@
 
 ## About Munzig´s
 
-**Munzig´s** is an independent lottery-data and utility platform focused on making lottery information easier to explore, verify and understand.
+**Munzig´s** is an independent lottery-data and utility platform built to make lottery information easier to explore, verify and understand.
 
-The platform combines reliable source data, historically correct game rules and practical tools in a clear, accessible interface.
+The platform combines source-backed results, historically correct game rules, transparent data provenance and practical tools in a clear, accessible interface.
 
 **No predictions. No promises of better odds. No ticket sales.**
 
-Just useful lottery data and tools.
+Just useful lottery data and tools — with the evidence behind the data.
 
 ---
 
 ## What Munzig´s provides
 
 ### Latest Results
-Current lottery results with source provenance and data-freshness information.
+Current lottery results with source provenance, freshness information and verification context.
 
 ### Draw History
-Historical draw databases with awareness of rule changes across different lottery eras.
+Historical draw databases that preserve rule changes and game eras instead of treating every draw as if the rules had always been the same.
 
 ### Number Checker
-Check number combinations against historical draws using the correct rules for each game.
+Check number combinations against historical draws using the correct rules for each lottery and period.
 
 ### Statistics
-Explore historical lottery data through relevant, correctly filtered statistics.
+Explore historical lottery data through transparent, correctly filtered statistics.
 
 ### Number Generator
 Generate valid number combinations for convenience and entertainment — never presented as prediction.
@@ -49,17 +48,28 @@ Generate valid number combinations for convenience and entertainment — never p
 ### Next Draw
 Upcoming draw date, local draw time and countdown where applicable.
 
+### Data & Methodology
+Traceable sources, verification states and documented methodology designed to make the underlying datasets auditable.
+
 ---
 
-## Lottery portfolio
+## Lottery coverage
 
-| Europe | Americas |
+Munzig´s is being built market by market. The list below includes both current modules and lotteries already in research, data preparation or product planning.
+
+| Market | Lotteries |
 | :--- | :--- |
-| 🇪🇺 Eurojackpot | 🇺🇸 Powerball |
-| 🇨🇿 Sportka | 🇧🇷 Mega-Sena |
-| 🇩🇪 LOTTO 6aus49 | |
-| 🇪🇸 Lotería de Navidad | |
-| 🇬🇧 UK Lotto | |
+| 🌍 **Europe — multinational** | Eurojackpot · EuroMillions |
+| 🇨🇿 **Czech Republic** | Sportka |
+| 🇩🇪 **Germany** | LOTTO 6aus49 |
+| 🇪🇸 **Spain** | Lotería de Navidad · La Primitiva |
+| 🇫🇷 **France** | Loto |
+| 🇮🇹 **Italy** | SuperEnalotto |
+| 🇬🇧 **United Kingdom** | UK Lotto |
+| 🇺🇸 **United States** | Powerball · Mega Millions |
+| 🇧🇷 **Brazil** | Mega-Sena |
+
+New lotteries are published only after their data sources, historical rule eras, localization, compliance and quality checks are ready.
 
 ---
 
@@ -67,11 +77,13 @@ Upcoming draw date, local draw time and countdown where applicable.
 
 Munzig´s is designed around several core principles:
 
-**Verified data** · **Traceable sources** · **Historical accuracy** · **Native localization**
+**Verified data** · **Traceable sources** · **Historical accuracy** · **Rule-era awareness**
 
-**Accessibility** · **Responsible presentation** · **Clear methodology**
+**Native localization** · **Accessibility** · **Responsible presentation** · **Clear methodology**
 
-Lottery statistics and generated combinations are presented as informational tools only. They do not improve the mathematical probability of winning.
+Where reliable verification cannot be established, uncertainty should be visible rather than silently hidden.
+
+Lottery statistics and generated combinations are informational tools only. They do not improve the mathematical probability of winning.
 
 ---
 
